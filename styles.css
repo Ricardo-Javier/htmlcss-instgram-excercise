@@ -6,15 +6,12 @@ body {
 
 .general{
     margin-left: 30%;
-    margin-top: 1%;
-    margin-bottom: 1%;
-    padding-bottom: 0px;
-    height: 95vh;
+    margin-top: 6%;
+    height: 85vh;
     width: 63.4vh;
     display:flex;
     flex-direction: column;
     background-color: white;
-    overflow: auto;
   }
 
 .header{
@@ -61,7 +58,6 @@ body {
     text-align: justify;
     text-justify: inter-word;    
     flex-direction: column;
-    padding-bottom: 0.1px;
     
 }
 
